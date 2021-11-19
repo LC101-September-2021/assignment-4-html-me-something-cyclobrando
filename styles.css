@@ -1,1 +1,39 @@
-/* Write your CSS here! */
+header {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+body {
+    width: 100%;
+    margin: 8px;
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: "Lucida Handwriting", cursive;
+}
+
+p {
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 20px;
+    font-size: 17px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#navbar {
+    font-family: "Lucida Handwriting", cursive;
+}
+
+.funParagraph {
+    color: green;
+}
